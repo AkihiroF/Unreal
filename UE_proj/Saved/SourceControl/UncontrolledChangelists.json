@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/PCG/PCG_Map.umap",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/PCG/PCGLevel.umap",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/PCG/PCG.uasset",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/StarterContent/Props/Materials/M_Chair.uasset"
+			]
+		}
+	]
+}
