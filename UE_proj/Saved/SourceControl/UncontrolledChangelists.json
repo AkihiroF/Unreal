@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/Python/CustomTools.uasset",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/Python/CustomEditor.uasset",
+				"/Users/akihirof/Documents/Projects/Unreal/UE_proj/Content/PythonScripts/CustomTools.uasset"
+			]
+		}
+	]
+}
